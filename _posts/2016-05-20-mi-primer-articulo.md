@@ -14,3 +14,11 @@ Bla bla bla
 ### Subsección 1
 
 ¡Hola Mundo!
+
+#### Prueba de código
+
+``` java
+int x = 1;
+int y = 2;
+int z = x + y;
+```
