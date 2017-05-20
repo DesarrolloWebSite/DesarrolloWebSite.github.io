@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contactar
-permalink: /Contactar/
+permalink: /contactar/
 ---
 
 Some information about you!
