@@ -10,6 +10,8 @@ Este es mi primer artículo
 Bla bla bla
 
 ¡[Una imagen]({{ site.baseurl }}/images/image-1.png)
+![My helpful screenshot]({{ site.url }}/assets/image-1.png)
+
 
 ### Subsección 1
 
