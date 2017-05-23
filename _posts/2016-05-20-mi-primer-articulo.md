@@ -11,7 +11,7 @@ Bla bla bla
 
 ¡[Una imagen]({{ site.baseurl }}/images/image-1.png)
 
-![My helpful screenshot]({{ site.url }}/assets/image-1.png)
+¡[Una imagen]({{ https://github.com/DesarrolloWebSite/DesarrolloWebSite.github.io }}/images/image-1.png)
 
 
 ### Subsección 1
