@@ -10,7 +10,8 @@ Este es mi primer artículo
 Bla bla bla
 
 ¡[Una imagen]({{ site.baseurl }}/images/image-1.png)
-![_config.yml]({{ site.baseurl }}/images/config.png)
+
+![_config.yml]({{ site.baseurl }}/images/image-1.png)
 
 ¡[Una imagen]({{ https://github.com/DesarrolloWebSite/DesarrolloWebSite.github.io }}/images/image-1.png)
 
