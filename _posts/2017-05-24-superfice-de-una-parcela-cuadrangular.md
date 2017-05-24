@@ -11,4 +11,4 @@ Otra forma de indicarlo consiste en sumar la base de un rectángulo y la base de
 
 ![_config.yml]({{ site.baseurl }}/images/Trapecio Rectángulo.PNG)
 
-![_config.yml]({{ site.baseurl }}/images/image-1.png)
+
